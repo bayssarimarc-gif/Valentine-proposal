@@ -120,7 +120,7 @@ function showMessage(response) {
     yesMessage.textContent = "Happy Valentines lanlannnnnnnnnn bhebbik ktirrrr ya tayoubeeeeeeeeeeeeee ya hayete ente, w good girl akid ha t2oule yes ya ya chatouraaaaaaaaaaaaa";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "dance.gif";
+    document.getElementsByClassName("image")[0].src = "image.jpg";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
