@@ -120,7 +120,7 @@ function showMessage(response) {
     yesMessage.textContent = "Happy Valentines lanlannnnnnnnnn bhebbik ktirrrr ya tayoubeeeeeeeeeeeeee ya hayete ente, w good girl akid ha t2oule yes ya chatouraaaaaaaaaaaaa";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tulip_-_floriade_canberra.jpg";
+    document.getElementsByClassName("image")[0].src = "tulip.png";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
